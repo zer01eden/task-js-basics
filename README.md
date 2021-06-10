@@ -8,7 +8,7 @@
 
 # JavaScript: Podstawy
 
-Twoim zadaniem będzie dopisanie do istniejącego kodu niezbędnych elementów, które pozwolą wykonywać obliczenia oraz przechowywać hostorię wykonanych operacji.
+Twoim zadaniem będzie dopisanie do istniejącego kodu niezbędnych elementów, które pozwolą wykonywać obliczenia oraz przechowywać historię wykonanych operacji.
 
 Nasz kalkulator powinien posiadać następujące opcje:
 
@@ -26,6 +26,11 @@ We wspomnianym pliku wykorzystujemy również pętle [do ... while](https://deve
 
 To tam należy dopisać kilka instrukcji `if` oraz wywołać odpowiednie metody.
 
+## Refaktoryzacja ([wiki](https://pl.wikipedia.org/wiki/Refaktoryzacja))
+
+Jak już napiszesz program (lub jego część), który będzie wykonywał wyznaczone operacje to powinieneś się zastanowić czy nie da sie go usprawnić np. zwiększyć czytelności kodu lub usunać powielone operacje zastępując je wykorzystaniem funkcji.
+
+Przed wykonaniem *Pull Request* zastanów się nad refaktoryzacją swojego kodu. To jeden z najważniejszych działań podczas procesu wytwarzania oprogramowania, o którym często zapominają począktujący programiści.
 
 
 &nbsp;
